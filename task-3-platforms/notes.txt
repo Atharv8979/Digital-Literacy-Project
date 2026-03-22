@@ -1,0 +1,3 @@
+In this task, I worked on a coding platform and a collaboration tool. I used HackerRank to solve a basic problem and practice my coding skills. I am already familiar with the platform, so it was easy for me to use.
+I also created a Digital Literacy Awareness Quiz using Google Forms. I added five simple questions based on topics like online safety and basic digital knowledge. I tried to keep the questions clear and easy to understand.
+After creating the form, I submitted a response myself and checked the responses in Google Sheets. This helped me see how answers are collected and stored automatically.
